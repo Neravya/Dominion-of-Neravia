@@ -2,7 +2,8 @@
 	{
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
-		"adjective": ["alien"],
+		"adjective": ["neravia"],
+                "uniqueName": [Adapted Reforms],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
