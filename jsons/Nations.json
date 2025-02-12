@@ -2,7 +2,6 @@
 	{
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
-		"adjective": ["Neravian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
