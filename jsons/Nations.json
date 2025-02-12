@@ -19,8 +19,8 @@
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
-                
-                "uniqueName": "War Climate",
+
+                "unique": "War Climate",
                 "uniques": "[+10 Production] <when at war> [in all cities]",
 	
 		"outerColor": [0,0,0],
