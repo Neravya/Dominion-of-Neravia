@@ -28,10 +28,8 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
                 
                 "uniqueName": "War Climate"
-		"uniques": "[+10 Production][in all cities]<when at war>"
-
-
-
+		"uniques": "[+10 Production]<when at war>[in all cities]"
+	
 		"outerColor": [0,0,150],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST DESTINY"
