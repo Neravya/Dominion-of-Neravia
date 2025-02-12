@@ -27,12 +27,11 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
                 
-                "uniqueName": "War Climate"
-		"unique": "[+10 Production]<when at war>[in all cities]"
+                "uniqueName": "War Climate",
+		"uniques": "[+10 Production]<when at war>[in all cities]",
 	
-		"outerColor": [0,0,150],
-		"innerColor": [255,255,255],
-		"unique": "MANIFEST DESTINY"
+		"outerColor": [0,0,0],
+		"innerColor": [255,50,50],
 		"cities": ["Neravia","Frontier","Fortuna","Centix","Dorex","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
