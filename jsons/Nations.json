@@ -28,14 +28,14 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
                 
                 "uniqueName": "War Climate"
-		"uniques": "[+10 Production in all Cities]"
+		"uniques": "[+10 Production][in all cities]<when at war>"
 
 
 
 		"outerColor": [0,0,150],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST DESTINY"
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Neravia","Frontier","Fortuna","Centix","Dorex","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
