@@ -4,6 +4,7 @@
 		"leaderName": "Lady Neravia",
 		"adjective": ["neravia"],
                 "uniqueName": "The Scorch",
+		"uniques": "[+1 Science, +1 Production] per [1][tech]",
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
