@@ -2,8 +2,7 @@
 	{
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
-		"adjective": ["neravia"],
-                "uniqueName": "The Scorch",
+		"adjective": ["Neravian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
@@ -27,6 +26,11 @@
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
+                
+                "uniqueName": "War Climate"
+		"uniques": "[+10 Production in all Cities]"
+
+
 
 		"outerColor": [0,0,150],
 		"innerColor": [255,255,255],
