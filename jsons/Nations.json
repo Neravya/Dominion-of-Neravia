@@ -25,7 +25,7 @@
 		"tradeRequest": "Mind you please consider this trade?",
 
                 "uniqueName": "War Climate",
-                "uniques": "<when at war> [+10 Production] [in all cities]",
+                "uniques": "[+10 Production] [in all cities]",
 
 		"unique": "why do i need this?"
 	
