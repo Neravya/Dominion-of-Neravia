@@ -2,11 +2,16 @@
 	{
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
+		"adjective": "Engineers",
+		"outerColor": [0,0,0],
+		"innerColor": [200,50,50],
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"favouredReligion": "Christianity",
+		
+		"startIntroPart1": "It has begun.",
+		"startIntroPart2": "All great minds kneel of our Dominion before thee,are you ready to rule the world?",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
