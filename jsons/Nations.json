@@ -26,7 +26,9 @@
 
                 "uniqueName": "War Climate",
                 "uniques": "<when at war> [+10 Production] [in all cities]",
-		
+
+		"unique": "why do i need this?"
+	
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
 			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
 			"Draco Manufactory","Overmind","Perpetual Core"]
