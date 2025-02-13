@@ -24,8 +24,8 @@
 		"afterPeace": "Okay.. I guess we can take a break..",
 		"tradeRequest": "Mind you please consider this trade?",
 
-                "unique": "War Climate",
-                "uniques": "[+10 Production][in all cities]<when at war>",
+                "uniqueName": "War Climate",
+                "unique": "[+10 Production][in all cities]<when at war>",
 		
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
 			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
