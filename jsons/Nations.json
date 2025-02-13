@@ -6,7 +6,7 @@
 		"outerColor": [140,30,20],
 		"innerColor": [255,70,70],
 		
-		"startBias": ["Coast,Mountain"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		"favouredReligion": "Christianity",
 		
