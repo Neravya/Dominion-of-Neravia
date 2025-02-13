@@ -12,26 +12,24 @@
 		
 		"startIntroPart1": "It has begun.",
 		"startIntroPart2": "All great minds kneel of our Dominion before thee,are you ready to rule the world?",
+		"startIntroPart3": "(This civ is WIP, also my very first but please have fun playing it （＾ｖ＾）) -by Neravya",
+		"declaringWar": "I'll please be striking first.",
+		"attacked": "Oh.. That's not convenient..",
+		"defeated": "You're a great opponent, Although I'll be annoying you in afterlife for this.",
+		"introduction": "Oh, well I typically consider meeting new civs a bad news, I please hope that's not your case..",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"neutralHello": "Please state your intentions.",
+                "hateHello": "..?",
 		
-		"neutralHello": "How are you doing?",
-                "hateHello": "What do you want now?",
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Okay.. I guess we can take a break..",
+		"tradeRequest": "Mind you please consider this trade?",
 
                 "unique": "War Climate",
                 "uniques": "[+10 Production] <when at war> [in all cities]",
-	
-		"outerColor": [0,0,0],
-		"innerColor": [255,50,50],
-		"cities": ["Neravia","Frontier","Fortuna","Centix","Dorex","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		
+		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
+			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory","Draco Manufactory,"Why do you need this much city?",
+			"Heyy what are you trying to do?","Overexpansion?","Or","Are you trying to","Fry","Your","Personal Computer?","Please stop expanding","Hey the game is gonna run out of city names","Kindly Please stop",
+			"Okay Seriously","You done?","Whatever are you doing","You done yet?","How are you placing alot..","This is the last of it.."]
 	}
 ]
