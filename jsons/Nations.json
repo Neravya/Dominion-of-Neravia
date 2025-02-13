@@ -6,7 +6,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [200,50,50],
 		
-		"startBias": ["Coast"],
+		"startBias": ["Coast,Mountain"],
 		"preferredVictoryType": "Domination",
 		"favouredReligion": "Christianity",
 		
@@ -25,9 +25,7 @@
 		"tradeRequest": "Mind you please consider this trade?",
 
                 "uniqueName": "War Climate",
-                "uniques": ["[+10 Production] [in all cities]"],
-
-		"unique": "why do i need this?"
+                "uniques": ["[+10 Production] [in all cities] <when at war>"],
 	
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
 			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
