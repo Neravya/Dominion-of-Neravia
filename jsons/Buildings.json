@@ -9,7 +9,7 @@
 		"cityStrength": 30,
 		"cityHealth": 0,
 		"maintenance": 20,
-		"isNationalWonder": True,
+		"isNationalWonder": true,
 		"quote": "As the Battery-Q stands with a Mighty, Gigantic Silhoutte..
 		Nations tremble upon the wrath it shall bring, Load the first shell!!"
 		"uniques": ["Comment [Enables War Climate Bombardment]",
