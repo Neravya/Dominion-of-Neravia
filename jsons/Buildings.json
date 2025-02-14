@@ -10,8 +10,7 @@
 		"cityHealth": 0,
 		"maintenance": 20,
 		"isNationalWonder": true,
-		"quote": "[As the Battery-Q stands with a Mighty, Gigantic Silhoutte..
-		Nations tremble upon the wrath it shall bring, Load the first shell!!]",
+		"quote": ["As the Battery-Q stands with a Mighty, Gigantic Silhoutte.. Nations tremble upon the wrath it shall bring, Load the first shell!!"]
 		"uniques": ["Comment [Enables War Climate Bombardment]",
 			    "Destroyed when the city is captured",
 			    "only available in Capital",
