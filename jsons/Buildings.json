@@ -17,7 +17,6 @@
 			    "unsellable",
 			    "triggers a global warning upon build start"],
 		"requiredTech": "Metallurgy"
-		"requiredResource": "50 Coal,
 	},
 	{
 		"name": "Sewerage",
