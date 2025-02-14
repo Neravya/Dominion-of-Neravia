@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "SV-1000",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"uniqueTo": "Dominion of Neravia",
+		"replaces": "Mechanized Infantry",
+		"movement": 6,
+		"strength": 150,
+		"rangedStrength": 55,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
+		"cost": 800,
+		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
