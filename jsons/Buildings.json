@@ -4,12 +4,12 @@
 		"replaces": "Arsenal",
 		"uniqueTo": "Dominion of Neravia",
 		"cost": 320,
-                "hurryCostModifier": 1200
+                "hurryCostModifier": 1200,
 		"happiness": 1,
-		"City strenght": 10,
-		"City health": 20
+		"City strength": 10,
+		"City health": 20,
 		"maintenance": 2,
-		"uniques": ["Destroyed when city is captured"],
+		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metallurgy"
 	},
 	{
