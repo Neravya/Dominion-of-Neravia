@@ -1,12 +1,16 @@
 [
 	{
-		"name": "Seige Walls",
-		"replaces": "Walls",
+		"name": "Battery-Q",
+		"replaces": "Arsernal",
 		"uniqueTo": "Dominion of Neravia",
-		"cost": 100,
+		"cost": 320,
+                "hurryCostModifier": 1200
 		"happiness": 1,
+		"City strenght": 10,
+		"City health": 20
 		"maintenance": 2,
-		"requiredTech": "Construction"
+		"uniques": ["Destroyed when city is captured"],
+		"requiredTech": "Metallurgy"
 	},
 	{
 		"name": "Sewerage",
