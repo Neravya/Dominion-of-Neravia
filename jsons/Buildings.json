@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Battery-Q",
-		"replaces": "Arsernal",
+		"replaces": "Arsenal",
 		"uniqueTo": "Dominion of Neravia",
 		"cost": 320,
                 "hurryCostModifier": 1200
