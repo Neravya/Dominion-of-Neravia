@@ -8,7 +8,7 @@
 		
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		"favouredReligion": "Christianity",
+		"favouredReligion": "Atheism",
 		
 		"startIntroPart1": "All great minds of our Dominion kneel before thee, save aside to those who are not, are you ready to rule the world?",
 		"startIntroPart2": "(This civ is WIP, also my very first but please have fun playing it （＾ｖ＾）) -by Neravya",
@@ -24,13 +24,15 @@
 		"tradeRequest": "Mind you please consider this trade like blade?",
 
                 "uniqueName": "War Climate",
-                "uniques": ["[+4 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
-		           "[+4 Production] [in all cities] <when at war> <after discovering [Physics]>",
-			   "[+3 Production] [in all cities] <when at war> <after discovering [Chemistry]>",
-		           "[+2 Production] [in all cities] <when at war> <after discovering [Dynamite]>",
-			   "[+1 Production] [in all cities] <when at war> <after discovering [Rocketry]>",
-		           "[+1 Production] [in all cities] <when at war> <after discovering [Ballistics]>"],
-	
+                "uniques": ["Comment [Cities with Battery-Q may bombard all enemy units in range with 50% chance]",
+			   "[+5 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
+		           "[+5 Production] [in all cities] <when at war> <after discovering [Physics]>",
+			   "[+4 Production] [in all cities] <when at war> <after discovering [Chemistry]>",
+		           "[+3 Production] [in all cities] <when at war> <after discovering [Dynamite]>",
+			   "[+2 Production] [in all cities] <when at war> <after discovering [Rocketry]>",
+		           "[+1 Production] [in all cities] <when at war> <after discovering [Ballistics]>",
+			   "All newly trained [Land,Water,Air] units [in all cities] receive the [Dominion Immunity] Promotion <hidden from users>"],
+			
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
 			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
 			"Draco Manufactory","Overmind","Perpetual Core"]
