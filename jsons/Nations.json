@@ -3,8 +3,8 @@
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
 		"adjective": "Engineers",
-		"outerColor": [140,30,20],
-		"innerColor": [255,70,70],
+		"outerColor": [127,28,19],
+		"innerColor": [255,88,88],
 		
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -25,7 +25,7 @@
 		"tradeRequest": "Mind you please consider this trade like a blade?",
 
                 "uniqueName": "War Climate",
-                "uniques": ["[Enemy] takes [5] damage <upon turn end> <within [2] tiles of a [city]>",
+                "uniques": ["[Enemy] takes [5] damage <upon turn end> <within [2] tiles of a [citycenter]>",
 			   "[+4 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
 		           "[+4 Production] [in all cities] <when at war> <after discovering [Physics]>",
 			   "[+3 Production] [in all cities] <when at war> <after discovering [Chemistry]>",
