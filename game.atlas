@@ -13,14 +13,14 @@ BuildingIcons/Breeders
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 112, 4
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Dominion of Neravia
   rotate: false
-  xy: 220, 4
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
