@@ -13,13 +13,14 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Sewerage",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Dominion of Neravia",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"cost": 100,
+		"hurryCostModifier": 200,
 		"happiness": 2,
-		"uniques": ["80% of food is carried over after a new citizen is born"],
+		"maintenance": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]
