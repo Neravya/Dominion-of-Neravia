@@ -10,22 +10,21 @@
 		"preferredVictoryType": "Domination",
 		"favouredReligion": "Christianity",
 		
-		"startIntroPart1": "It has begun.",
-		"startIntroPart2": "All great minds of our Dominion kneel before thee, are you ready to rule the world?",
-		"startIntroPart3": "(This civ is WIP, also my very first but please have fun playing it （＾ｖ＾）) -by Neravya",
+		"startIntroPart1": "All great minds of our Dominion kneel before thee, save aside to those who are not, are you ready to rule the world?",
+		"startIntroPart2": "(This civ is WIP, also my very first but please have fun playing it （＾ｖ＾）) -by Neravya",
 		"declaringWar": "I declare war to your tar, to your bold like told, prepare to battle as I make it double.",
 		"attacked": "Oh.. That's inconvenient..",
 		"defeated": "You're a great opponent, Although I'll be annoying you in afterlife for this.",
-		"introduction": "Oh, well I typically consider meeting new civs a bad news, I please hope that's not your case..",
+		"introduction": "Oh, well I typically consider meeting new civs a bad news in rows, I please hope that's not your case..",
 		
 		"neutralHello": "Please state your intentions.",
                 "hateHello": "How was the rhymes?",
 		
 		"afterPeace": "Okay.. I guess we can take a break..",
-		"tradeRequest": "Mind you please consider this trade like a blade?",
+		"tradeRequest": "Mind you please consider this trade like blade?",
 
                 "uniqueName": "War Climate",
-                "uniques": ["[Enemy] takes [5] damage <upon turn end> <within [2] tiles of a [citycenter]>",
+                "uniques": ["[Enemy] takes [5] damage <upon turn end> <within [2] tiles of a [City center]>",
 			   "[+4 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
 		           "[+4 Production] [in all cities] <when at war> <after discovering [Physics]>",
 			   "[+3 Production] [in all cities] <when at war> <after discovering [Chemistry]>",
