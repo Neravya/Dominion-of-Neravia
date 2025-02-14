@@ -6,8 +6,8 @@
 		"cost": 320,
                 "hurryCostModifier": 1200,
 		"happiness": 1,
-		"City strength": 10,
-		"City health": 20,
+		"cityStrength": 10,
+		"cityHealth": 20,
 		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Metallurgy"
