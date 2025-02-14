@@ -27,7 +27,8 @@
                 "uniqueName": "War Climate",
                 "uniques": ["[+5 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
 		           "[+5 Production] [in all cities] <when at war> <after discovering [Physics]>",
-		           "[+5 Production] [in all cities] <when at war> <after discovering [Dynamite]>"],
+		           "[+5 Production] [in all cities] <when at war> <after discovering [Dynamite]>",
+			   "[+50]% Strength [in all cities] <when defending> <vs [Seige] units> <after discovering [Mathemathics]>"],
 		
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
 			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
