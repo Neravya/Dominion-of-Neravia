@@ -3,19 +3,18 @@
 		"name": "Battery-Q",
 		"replaces": "Arsenal"
 		"uniqueTo": "Dominion of Neravia",
-		"cost": 4000,
-                "hurryCostModifier": 5000,
+		"cost": 1200
 		"happiness": 2,
 		"cityStrength": 30,
 		"cityHealth": 0,
-		"maintenance": 100,
+		"maintenance": 20,
 		"isNationalWonder": true,
 		"quote": "'The Battery-Q stands Monumentally along the war-torn skies, Casting a shade should it foreshadow the wrath it shall bring as even Great Nations tremble, Thee Lady, I shall take command to LOAD THE FIRST SHELLS!!' - Head Engineer Yarkov",
 		"uniques": ["Comment [Enables War Climate Bombardment]",
 			    "Destroyed when the city is captured",
 			    "only available in Capital",
-			    "unsellable",
-			    "Triggers a global warning upon build start","Triggers a global warning upon completion"],
+			    "Unsellable<hidden from users>",
+			    "Triggers a global warning upon build start<hidden from users>","Triggers a global warning upon completion<hidden from users>"],
 		"requiredTech": "Metallurgy"
 	},
 	{
