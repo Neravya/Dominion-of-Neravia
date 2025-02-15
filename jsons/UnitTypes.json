@@ -12,6 +12,8 @@
     {
         "name": "Gunpowder",
         "movementType": "Land"
+        "uniques":  "[This Unit] gains the [War Climate] status for [1] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>",
+
     },
     {
         "name": "Archery",
