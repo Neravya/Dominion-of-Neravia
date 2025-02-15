@@ -3,7 +3,7 @@
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
 		"adjective": "Engineers",
-		"outerColor": [127,28,19],
+		"outerColor": [15,15,20],
 		"innerColor": [218,165,32],
 		
 		"startBias": ["Coast"],
