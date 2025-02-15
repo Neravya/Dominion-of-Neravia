@@ -6,7 +6,7 @@
 {
 "name": "War Climate"
 "uniques": ["Comment [Targetted by Battery-Q]",
-            "[This Unit] unit takes [30] damage <upon gaining [War Climate]> <with [50%] chance>"],
+            "[All] unit takes [30] damage <upon gaining [War Climate]> <with [50%] chance>"],
 },
 {
 "name": "Combat Data Analysis"
