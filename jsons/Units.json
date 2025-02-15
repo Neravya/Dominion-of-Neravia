@@ -11,7 +11,7 @@
 		"cost": 800,
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Battle Data Analysis","Battle Data Analysis Mk.2"],
 		"attackSound": "phasers"
 	}
 ]
