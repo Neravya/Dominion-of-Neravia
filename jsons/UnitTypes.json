@@ -185,9 +185,7 @@
 
         "movementType": "Land",
 
-        "uniques": ["Can pass through impassable tiles",
-
-			["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+        "uniques": ["Can pass through impassable tiles","[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
 
 
     },
