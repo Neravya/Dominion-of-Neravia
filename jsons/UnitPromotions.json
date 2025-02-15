@@ -17,6 +17,7 @@
 },
 {
 "name": "Nannons"
-"uniques": "[Unit will heal every turn, even if it performs an Action]","[+20 HP when healing <in [Foreign Land] tiles>]",
+"uniques": "[Unit will heal every turn, even if it performs an Action]",
+           "+20 HP when healing <in [Foreign Land] tiles>",
 }
 ]
