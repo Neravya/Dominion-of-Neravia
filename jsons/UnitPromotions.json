@@ -9,11 +9,11 @@
 },
 {
 "name": "Combat Data Analysis"
-"uniques": "+[100]% XP gained from combat",
+"uniques": ["[+100]% XP gained from combat"],
 },
 {
 "name": "Combat Data Analysis Mk.2"
-"uniques": "+[100]% XP gained from combat, [+100]% Strength <after discovering [Mobile Tactics]>",
+"uniques": ["[100]% XP gained from combat"], [+100]% Strength <after discovering [Mobile Tactics]>",
 },
 {
 "name": "Nannons"
