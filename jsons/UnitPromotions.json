@@ -13,10 +13,10 @@
 },
 {
 "name": "Combat Data Analysis Mk.2"
-"uniques": ["[100]% XP gained from combat"], "[+100]% Strength",
+"uniques": ["[100]% XP gained from combat"],
 },
 {
 "name": "Nannons"
-"uniques": ["[Unit will heal every turn, even if it performs an Action", "+20 HP when healing <in [Foreign Land] tiles>]"],
+"uniques": "[Unit will heal every turn, even if it performs an Action", "+20 HP when healing <in [Foreign Land] tiles>]",
 },
 ]
