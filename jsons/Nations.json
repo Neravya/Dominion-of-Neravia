@@ -4,7 +4,7 @@
 		"leaderName": "Lady Neravia",
 		"adjective": "Engineers",
 		"outerColor": [127,28,19],
-		"innerColor": [220,200,220],
+		"innerColor": [255,200,255],
 		
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
