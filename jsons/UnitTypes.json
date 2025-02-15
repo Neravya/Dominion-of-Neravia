@@ -1,5 +1,194 @@
 [
-{
-"UnitTypes": ["[All] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed>"],
-}
+
+    {
+
+        "name": "Civilian",
+
+        "movementType": "Land"
+
+    },
+
+    {
+
+        "name": "Sword",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+    },
+
+    {
+
+        "name": "Gunpowder",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Archery",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+    },
+
+    {
+
+        "name": "Ranged Gunpowder",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Scout",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Mounted",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Armored",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+    },
+
+    {
+
+        "name": "Siege",
+
+        "movementType": "Land",
+
+		"uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Civilian Water",
+
+        "movementType": "Water"
+
+    },
+
+    {
+
+        "name": "Melee Water",
+
+        "movementType": "Water"
+
+    },
+
+    {
+
+        "name": "Ranged Water",
+
+        "movementType": "Water"
+
+    },
+
+    {
+
+        "name": "Submarine",
+
+        "movementType": "Water",
+
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Aircraft Carrier",
+
+        "movementType": "Water"
+
+        "uniques": ["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
+
+    {
+
+        "name": "Fighter",
+
+        "movementType": "Air",
+
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep"]
+
+    },
+
+    {
+
+        "name": "Bomber",
+
+        "movementType": "Air",
+
+        "uniques": ["Aircraft"]
+
+    },
+
+    {
+
+        "name": "Atomic Bomber",
+
+        "movementType": "Air",
+
+        "uniques": ["Aircraft"]
+
+    },
+
+    {
+
+        "name": "Missile",
+
+        "movementType": "Air",
+
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+
+    },
+
+    {
+
+        "name": "Helicopter",
+
+        "movementType": "Land",
+
+        "uniques": ["Can pass through impassable tiles",
+
+			["[This Unit] gains the [War Climate] for [1] turn <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
+
+
+    },
 ]
