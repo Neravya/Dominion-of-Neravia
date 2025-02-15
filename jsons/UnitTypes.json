@@ -18,26 +18,32 @@
     {
         "name": "Archery",
         "movementType": "Land"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Scout",
         "movementType": "Land"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Mounted",
         "movementType": "Land"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Armored",
         "movementType": "Land"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Siege",
         "movementType": "Land"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Civilian Water",
@@ -46,19 +52,22 @@
     {
         "name": "Melee Water",
         "movementType": "Water"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Ranged Water",
         "movementType": "Water"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Submarine",
         "movementType": "Water",
-        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>", "Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"],
     },
     {
         "name": "Aircraft Carrier",
         "movementType": "Water"
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>"],
     },
     {
         "name": "Fighter",
@@ -83,7 +92,7 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>", "Can pass through impassable tiles"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work
