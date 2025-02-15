@@ -6,5 +6,13 @@
 {
 "name": "War Climate"
 "uniques": ["Comment [Targetted by Battery-Q]"],
+},
+{
+"name": "Battle Data Analysis"
+"uniques": "[+100]% XP gained from combat",
+},
+{
+"name": "Real-time Battle Data Analysis"
+"uniques": "[+100]% XP gained from combat, [+100]% Strength <after discovering [Mobile Tactics]>",
 }
 ]
