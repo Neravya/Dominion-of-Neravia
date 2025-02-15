@@ -31,7 +31,7 @@
 		           "[+3 Production] [in all cities] <when at war> <after discovering [Dynamite]>",
 			   "[+2 Production] [in all cities] <when at war> <after discovering [Rocketry]>",
 		           "[+1 Production] [in all cities] <when at war> <after discovering [Ballistics]>",
-			   "[Land] units gain the [Dominion Immunity] Promotion"],
+			   "[Military,Civilian] units gain the [Dominion Immunity] Promotion"],
 			
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
 			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
