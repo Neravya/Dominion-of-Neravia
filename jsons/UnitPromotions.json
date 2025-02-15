@@ -8,11 +8,15 @@
 "uniques": ["Comment [Targetted by Battery-Q]"],
 },
 {
-"name": "Battle Data Analysis"
+"name": "Combat Data Analysis"
 "uniques": "[+100]% XP gained from combat",
 },
 {
-"name": "Real-time Battle Data Analysis"
+"name": "Combat Data Analysis Mk.2"
 "uniques": "[+100]% XP gained from combat, [+100]% Strength <after discovering [Mobile Tactics]>",
-}
+},
+{
+"name": "Nannons"
+"uniques": ["Unit will heal every turn, even if it performs an Action", "+20 HP when healing <in [Foreign Land] tiles>"],
+},
 ]
