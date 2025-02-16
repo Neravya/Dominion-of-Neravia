@@ -3,7 +3,7 @@
 		"name": "Battery-Q",
 		"replaces": "Arsenal"
 		"uniqueTo": "Dominion of Neravia",
-		"cost": 1200
+		"cost": 1000
 		"happiness": 2,
 		"cityStrength": 30,
 		"cityHealth": 0,
@@ -24,7 +24,7 @@
 		"cost": 100,
 		"hurryCostModifier": 200,
 		"happiness": 1,
-		"maintenance": 4,
+		"maintenance": 2,
 		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Engineering"
 	}
