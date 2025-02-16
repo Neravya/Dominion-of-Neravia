@@ -25,7 +25,7 @@
 		"hurryCostModifier": 200,
 		"happiness": 1,
 		"maintenance": 4,
-		"uniques": ["100% of food is carried over after a new citizen is born"],
+		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Engineering"
 	}
 ]
