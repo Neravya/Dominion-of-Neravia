@@ -6,7 +6,7 @@
 {
 "name": "War Climate"
 "uniques": ["Comment [Targetted by Battery-Q]",
-            "[This Unit] takes [30] damage <upon turn end> <within [2] tiles of a [City center]>"],
+            "[This Unit] takes [25] damage <upon turn end> <within [2] tiles of a [City center]>"],
 },
 {
 "name": "Combat Data Analysis"
