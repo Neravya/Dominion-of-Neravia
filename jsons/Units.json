@@ -7,7 +7,7 @@
 		"movement": 2,
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
                            "Can be earned through combat", "Great Person - [War]",
-                           "Unbuildable", "Comment [May call [Battery-Q] bombardments on enemy units ending their turn adjacent to the Engineer]",
+                           "Unbuildable", "Comment [Calls [Battery-Q] bombardments on enemy units ending their turn adjacent to the Engineer]",
                            "Limited to [1] per Civilization<hidden from users>"
                            "Comment [You can only HAVE ONE [Head Engineer] at a time!]",
 		           "Uncapturable<hidden from users>"],
