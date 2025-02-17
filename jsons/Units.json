@@ -9,6 +9,7 @@
                            "Can be earned through combat", "Great Person - [War]",
                            "Unbuildable", "Comment [May call [Battery-Q] bombardments on enemy units ending their turn adjacent to the Engineer]",
                            "Limited to [1] per Civilization<hidden from users>"
-                           "Comment [You can only HAVE ONE [Head Engineer] at a time!]"],
+                           "Comment [You can only HAVE ONE [Head Engineer] at a time!]",
+		           "Uncapturable<hidden from users>"],
 	}
 ]
