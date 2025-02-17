@@ -1,17 +1,14 @@
 [
 	{
-		"name": "SV-1000",
-		"unitType": "Ranged",
+		"name": "Head Engineer",
+		"unitType": "Civilian",
 		"uniqueTo": "Dominion of Neravia",
-		"replaces": "Mechanized Infantry",
-		"movement": 6,
-		"strength": 150,
-		"rangedStrength": 55,
-		"range": 2,
-		"cost": 800,
-		"requiredTech": "Mobile Tactics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Combat Data Analysis"],
-		"attackSound": "phasers"
+		"replaces": "Great General",
+		"movement": 2,
+		"uniques": ['[+20]% Strength bonus for [Military] units within [2] tiles",
+                           "Can be earned through combat", "Great Person - [War]",
+                           "Unbuildable", "Comment [May call [Battery-Q] bombardments on enemy units ending their turn adjacent to the Engineer]",
+                           "Limited to [1] per Civilization<hidden from users>"
+                           "Comment [You can only HAVE ONE [Head Engineer] at a time!]"
 	}
 ]
