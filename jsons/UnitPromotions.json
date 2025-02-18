@@ -2,7 +2,7 @@
 {
 "name": "Dominion Immunity"
 "uniques": ["Comment [Immune to War Climate]",
-           "[This Unit] gains the [Battery-Q Support] status for [2] turn(s) <when adjacent to [Dominion General unit]>"],
+           "[This Unit] gains the [Battery-Q Support] status for [2] turn(s) <when adjacent to [Dominion General] unit>"],
 },
 {
 "name": "War Climate"
