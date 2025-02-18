@@ -3,7 +3,7 @@
 		"name": "Battery-Q",
 		"replaces": "Arsenal"
 		"uniqueTo": "Dominion of Neravia",
-		"cost": 1000
+		"cost": 800
 		"happiness": 2,
 		"cityStrength": 30,
 		"cityHealth": 0,
