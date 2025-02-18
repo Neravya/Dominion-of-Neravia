@@ -5,7 +5,6 @@
 		"uniqueTo": "Dominion of Neravia",
 		"replaces": "Great General",
 		"movement": 2,
-		"strength": 20
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
                            "Can be earned through combat", "Great Person - [War] <hidden from users>",
                            "Limited to [1] per Civilization<hidden from users>"
