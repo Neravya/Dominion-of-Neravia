@@ -2,7 +2,7 @@
 {
 "name": "Dominion Immunity"
 "uniques": ["Comment [Immune to War Climate]",
-           "Battery-Q Support when adjacent to Great General"],
+           "[This Unit] gains the [Battery-Q Support] promotion <when adjacent to a [Dominion General unit>"],
 },
 {
 "name": "War Climate"
