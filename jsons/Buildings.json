@@ -12,7 +12,7 @@
 		"quote": "'The Battery-Q stands Monumentally along the war-torn skies, Casting a shade should it foreshadow the wrath it shall bring as even Great Nations tremble, Thee Lady, I shall take command to LOAD THE FIRST SHELLS!!' - Head Engineer Yarkov",
 		"uniques": ["Comment [Enables War Climate Bombardment]",
 			    "Destroyed when the city is captured",
-			    "Can only be built in Capital",
+			    "Can only be built in [Capital]",
 			    "Unsellable<hidden from users>",
 			    "Triggers a global alert upon build start <hidden from users>","Triggers a global alert upon completion<hidden from users>"],
 		"requiredTech": "Metallurgy"
