@@ -4,7 +4,7 @@
 		"leaderName": "Lady Neravia",
 		"adjective": "Neravian",
 		"outerColor": [30,30,40],
-		"innerColor": [255,0,55],
+		"innerColor": [200,30,40],
 		
 		"startBias": ["Coast","Hill"],
 		"preferredVictoryType": "Domination",
