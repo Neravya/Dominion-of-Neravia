@@ -3,8 +3,8 @@
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
 		"adjective": "Neravian",
-		"outerColor": [30,30,40],
-		"innerColor": [200,30,40],
+		"outerColor": [29,29,38],
+		"innerColor": [202,41,50],
 		
 		"startBias": ["Coast","Hill"],
 		"preferredVictoryType": "Domination",
