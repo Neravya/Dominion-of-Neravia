@@ -14,7 +14,7 @@
 			    "Destroyed when the city is captured",
 			    "only available in Capital",
 			    "Unsellable<hidden from users>",
-			    "Triggers a global warning upon build start<hidden from users>","Triggers a global alert upon completion<hidden from users>"],
+			    "Triggers a global alert upon build start <hidden from users>","Triggers a global alert upon completion<hidden from users>"],
 		"requiredTech": "Metallurgy"
 	},
 	{
