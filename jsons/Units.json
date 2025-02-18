@@ -7,8 +7,8 @@
 		"movement": 2,
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
                            "Can be earned through combat", "Great Person - [War] <hidden from users>",
-                           "Limited to [1] per Civilization<hidden from users>"
+                           "Limited to [1] per Civilization <hidden from users>"
                            "Comment [You can only have ONE [Dominion General] at a time!]",
-		           "Uncapturable<hidden from users>", "Unbuildable <hidden from users>"],
+		           "Uncapturable <hidden from users>", "Unbuildable <hidden from users>"],
 	}
 ]
