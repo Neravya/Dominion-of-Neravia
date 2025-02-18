@@ -25,7 +25,6 @@
 
                 "uniqueName": "War Climate",
                 "uniques": ["Comment [May bombard all enemy units in city range after [Battery-Q] is built.]",
-			   "Comment [[Battery-Q] Damage scales when certain technologies are researched.]",
 			   "[+1 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
 		           "[+1 Production] [in all cities] <when at war> <after discovering [Physics]>",
 			   "[+2 Production] [in all cities] <when at war> <after discovering [Chemistry]>",
