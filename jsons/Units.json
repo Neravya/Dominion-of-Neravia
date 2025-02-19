@@ -14,7 +14,8 @@
 			   "Limited to [4] per Civilization <upon entering the [Modern era]> <hidden from users>",
 			   "Limited to [5] per Civilization <upon entering the [Atomic era]> <hidden from users>",
 			   "Limited to [6] per Civilization <upon entering the [Information era]> <hidden from users>",
-                           "Comment [[Dominion General] unit limit scales with era.]",
+                           "Empire enters Golden Age <upon expending a [Dominion General] unit>",
+			   "Comment [[Dominion General] unit limit scales with era.]",
 		           "Uncapturable",
                            "Unbuildable"],
 	}
