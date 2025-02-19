@@ -6,9 +6,11 @@
 		"replaces": "Great General",
 		"movement": 4,
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
-                           "Can be earned through combat", "Great Person - [War] <hidden from users>",
+                           "Can be earned through combat",
+                           "Great Person - [War]",
                            "Limited to [1] per Civilization <hidden from users>"
                            "Comment [You can only have ONE [Dominion General] at a time!]",
-		           "Uncapturable <hidden from users>", "Unbuildable <hidden from users>"],
+		           "Uncapturable",
+                           "Unbuildable"],
 	}
 ]
