@@ -2,7 +2,8 @@
 {
 "name": "Dominion Immunity"
 "uniques": ["Comment [Immune to War Climate]",
-           "[This Unit] gains the [Battery-Q Support] promotion <when adjacent to a [Dominion General] unit>"],
+           "[This Unit] gains the [Battery-Q Support] promotion <when adjacent to a [Dominion General] unit>"
+           "[This Unit] gains the [Tactical Analysis] promotion <when adjacent to a [Dominion General] unit>"],
 },
 {
 "name": "War Climate"
@@ -11,11 +12,11 @@
             "[-1]% Strength"],
 },
 {
-"name": "Combat Data Analysis"
+"name": "Tactical Analysis"
 "uniques": ["[+100]% XP gained from combat"],
 },
 {
 "name": "Battery-Q Support"
-"uniques": ["Comment [e]"],
+"uniques": ["Comment [Calls War Climate upon the attacking unit when defending.]"],
 },
 ]
