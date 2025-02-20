@@ -2,7 +2,7 @@
 	{
 		"name": "Dominion of Neravia",
 		"leaderName": "Lady Neravia",
-		"adjective": "Neravian",
+		"adjective": "Neravia",
 		"outerColor": [29,29,38],
 		"innerColor": [202,41,50],
 		
@@ -10,18 +10,18 @@
 		"preferredVictoryType": "Domination",
 		"favouredReligion": "Atheism",
 		
-		"startIntroPart1": "All great minds of our Dominion kneel before thee, save aside to those who are not, are you ready to rule the world?",
+		"startIntroPart1": "All great minds of our Dominion kneel before thee, It seems that we are blasted to the past, Lady Neravia the Great Leader of our Dominion. shall we rebuild our perpetual motion in war as you guide us through the eras?",
 		"startIntroPart2": "(This civ is WIP, also my very first but please have fun playing it （＾ｖ＾）) -by Neravya",
-		"declaringWar": "I declare war to your tar, to your bold as told, prepare for war as I mear'n it double!",
-		"attacked": "Oh.. That's inconvenient..",
-		"defeated": "You're a great opponent, Although I'll be annoying you in afterlife for this.",
+		"declaringWar": "Why do you seem so bold..? As told that life may be gold, I see nothing in your tyrant ruling!",
+		"attacked": "Why do you seem so bold..? As told that life may be gold, I see nothing in your tyrant ruling!",
+		"defeated": "But why would you not spare... please tend me.. a proper burial.",
 		"introduction": "Oh, well I typically consider meeting new civs a bad news in rows, I please hope that's not your case..",
 		
-		"neutralHello": "Please state your intentions.",
-                "hateHello": "How was the rhymes?",
+		"neutralHello": "Please make yourself at home, as weapons do protect us like a shelter we don't have to cower upon.",
+                "hateHello": "*points a weapon at you*",
 		
-		"afterPeace": "Okay.. I guess we can take a break..",
-		"tradeRequest": "Mind you please consider this trade like blade?",
+		"afterPeace": "I, detest you..",
+		"tradeRequest": "Uhhh.. I don't know about trading so this is what my advisers proposed me to ask you..",
 
                 "uniqueName": "War Climate",
                 "uniques": ["Comment [May bombard all enemy units in city range after [Battery-Q] is built.]",
@@ -34,7 +34,7 @@
 			   "[All] units gain the [Dominion Immunity] promotion"],
 			
 		"cities": ["Neravia","Horizon","Fortuna","Centix","Dorex","Sentinel","Frontier","Vanguard","Arlite",
-			"Monolith","Argust","Utretch","Ark","Theorn","Bismuth","Maze Citadel","Zugzwang Manufactory",
-			"Draco Manufactory","Overmind","Perpetual Core"]
+			"Monolith","Argust","Farout","Ark Citadel","Theorn Hub","Bismuth Citadel","Maze Citadel","Zugzwang Manufactory",
+			"Draco Manufactory","Overmind Hub","Perpetual Engine"]
 	}
 ]
