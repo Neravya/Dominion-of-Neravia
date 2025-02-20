@@ -24,7 +24,7 @@
 		"tradeRequest": "Uhhh.. I don't know about trading so this is what my advisers proposed me to ask you..",
 
                 "uniqueName": "War Climate",
-                "uniques": ["Comment [May bombard all enemy units in city range after [Battery-Q] is built.]",
+                "uniques": ["Comment [May bombard all units that stays within 2-tile radius of [Battery-Q]]",
 			   "[+1 Production] [in all cities] <when at war> <after discovering [Mathematics]>",
 		           "[+1 Production] [in all cities] <when at war> <after discovering [Physics]>",
 			   "[+2 Production] [in all cities] <when at war> <after discovering [Chemistry]>",
