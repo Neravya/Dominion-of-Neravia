@@ -6,8 +6,8 @@
     {
         "name": "Sword",
         "movementType": "Land"
-        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <in [Enemy Land] tiles> <for units without [Dominion Immunity]> <if [Battery-Q] is constructed by anybody>",
-                    "[This Unit] gains the [War Climate] status for [2] turn(s) <upon damaging a [Battery-Q Support] unit> <upon turn end> <for units without [Dominion Immunity]> <within [5]-tile radius of a [Battery-Q]>"],
+        "uniques": ["[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <within [2] tiles of a [Battery-Q]> <for units without [Dominion Immunity]>",
+                    "[This Unit] gains the [War Climate] status for [2] turn(s) <upon damaging a [Battery-Q Support] unit> <upon turn end> <for units without [Dominion Immunity]> <within [5] tiles of a [Battery-Q]>"],
 
     },
     {
