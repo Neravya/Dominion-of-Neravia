@@ -1,9 +1,11 @@
 [
   {
     "name": "Battery-Q"
+    "replaces": "Citadel"
     "uniqueTo": "Dominion of Neravia"
     "turnsToBuild": 12,
     "terrainsCanBeBuiltOn": ["Land"],
-    "uniques": ["Gives a defensive bonus of [70]%"],
+    "uniques": ["Gives a defensive bonus of [70]%"
+                "Great Improvement"],
   }
 ]
