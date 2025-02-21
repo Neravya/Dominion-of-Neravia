@@ -5,5 +5,5 @@
 "terrainsCanBeBuiltOn": ["Land"],
 "turnsToBuild": 12,
 "techRequired": "Chemistry",
-}
+},
 ]
