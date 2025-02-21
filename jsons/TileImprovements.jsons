@@ -1,18 +1,14 @@
 [
 {
-  "name": "Battery-Q",
-  "replaces": "Citadel",
-  "uniqueTo": "Dominion of Neravia",
-  "terrainsCanBeBuiltOn": ["Land"],
-  "uniques": ["Cannot be built on [Bonus resource] tiles",
-              "Cannot be built on [Strategic resource] tiles",
-              "Cannot be built on [Luxury resource] tiles",
-              "Great Improvement",
-              "Can be built just outside your borders",
-              "Adjacent enemy units ending their turn take [5] damage",
-              "Gives a defensive bonus of [70]%",
-              "Gain control over [all] tiles in a [1]-tile radius",
-              "Removes removable features when built"
-              "Will not be replaced by automated units"],
+    "name": "Citadel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Removes removable features when built",
+      "Will not be replaced by automated units"],
 }
 ]
