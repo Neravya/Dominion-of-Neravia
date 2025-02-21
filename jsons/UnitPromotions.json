@@ -3,7 +3,6 @@
 "name": "Dominion Immunity"
 "uniques": ["Comment [Immune to War Climate]",
            "[This Unit] gains the [Battery-Q Support] promotion <when adjacent to a [Dominion General] unit>",
-           "[This Unit] loses the [Battery-Q Support] promotion <when adjacent to a non-[Dominion General] unit>",
            "[This Unit] gains the [Tactical Analysis] promotion <when adjacent to a [Dominion General] unit>"],
 },
 {
