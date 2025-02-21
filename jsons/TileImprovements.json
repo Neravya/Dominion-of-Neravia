@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "Battery-Q"
+    "uniqueTo": "Dominion of Neravia"
+    "turnsToBuild": 12,
+    "terrainsCanBeBuiltOn" ["Land"],
+    "uniques": ["Gives a defensive bonus of [70]%"],
+  }
+]
