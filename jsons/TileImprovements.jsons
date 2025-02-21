@@ -1,9 +1,0 @@
-[
-{
-"name": "Battery-Q",
-"uniqueTo": Dominion of Neravia
-"terrainsCanBeBuiltOn": ["Land"],
-"turnsToBuild": 12,
-"techRequired": "Chemistry",
-},
-]
