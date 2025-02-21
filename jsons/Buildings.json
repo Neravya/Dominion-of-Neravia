@@ -9,5 +9,5 @@
 		"maintenance": 2,
 		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Engineering",
-	}
+	},
 ]
