@@ -1,4 +1,4 @@
-[
-  {
-  },
-]
+{
+  "unitUniques": [
+                   "[This Unit] gains the [War Climate] status for [2] turn(s) <upon turn end> <for units without [Dominion Immunity]> <within [5] tiles of a [Battery-Q]>"],
+}
